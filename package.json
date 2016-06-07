@@ -11,6 +11,9 @@
     "type": "git",
     "url": "https://github.com/jsilvestre/fake-maif.git"
   },
+  "scripts": {
+    "start": "node server.js"
+  },
   "cozy-permissions": {},
   "dependencies": {
     "express": "4.13.4"
