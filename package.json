@@ -4,6 +4,7 @@
   "description": "maif description",
   "cozy-type": "static",
   "cozy-displayName": "Maif",
+  "cozy-color": "#3BDA6C",
   "icon-path": "logo-maif.svg",
   "author": "Cozy Cloud <contact@cozycloud.cc> (https://cozy.io/)",
   "repository": {
